@@ -21,4 +21,10 @@ $ npm install
 $ ionic serve
 ```
 
-Encuentrame en Twitter como __@anlijudavid__
+Tutoriales en video:
+
+[Usando Storage](https://youtu.be/i04nKZVFrIs)
+
+[Crear Providers](https://www.youtube.com/watch?v=81W6skur7ck)
+
+Encuentrame en Twitter como [__@anlijudavid__](https://twitter.com/anlijudavid)
