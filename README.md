@@ -1,20 +1,24 @@
 Ionic 2 App Tutorial
 =====================
 
-This is the base template for Ionic 2 starter apps.
+Código fuente de aplicación movil desarrollada en tutoriales.
 
-## Using this project
+## Usando éste proyecto
 
-You'll need the Ionic CLI with support for v2 apps:
-
-```bash
-$ npm install -g ionic
-```
-
-Then run:
+Necesitas tener instalado Ionic CLI con soporte para la version 2 de Ionic:
 
 ```bash
-$ ionic start myApp
+$ [sudo] npm install -g ionic
+$ [sudo] npm install -g cordova
 ```
 
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
+Correr aplicación:
+
+```bash
+$ git clone https://github.com/juliandavidmr/Tutorial_Ionic2.git
+$ cd Tutorial_Ionic2
+$ npm install
+$ ionic serve
+```
+
+Encuentrame en Twitter como __@anlijudavid__
